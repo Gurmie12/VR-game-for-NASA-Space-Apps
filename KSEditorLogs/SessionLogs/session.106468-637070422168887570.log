@@ -1,0 +1,206 @@
+2019-10-19 00:36:56.9683 [DEBUG] Validating model...
+2019-10-19 00:36:57.0529 [DEBUG] Model updated
+2019-10-19 00:36:57.0534 [DEBUG] Authenticating with server...
+2019-10-19 00:36:57.5941 [DEBUG] Connected to room. (106468:SceneFusion:SceneFusion)
+2019-10-19 00:36:57.6007 [INFO] Connected to server.
+2019-10-19 00:36:57.6012 [DEBUG] OS : Unix 18.7.0.0
+2019-10-19 00:36:57.6013 [DEBUG] Unity Version : 2018.4.11f1
+2019-10-19 00:36:57.6014 [DEBUG] Pro License : False
+2019-10-19 00:36:57.6016 [DEBUG] Platform : OSXEditor
+2019-10-19 00:36:57.6017 [DEBUG] Build Target : iOS
+2019-10-19 00:36:57.6018 [DEBUG] Scene Fusion version : 1.8.5
+2019-10-19 00:36:57.6019 [DEBUG] Scene Fusion client build : 0
+2019-10-19 00:36:57.6021 [DEBUG] User : g9brar@edu.uwaterloo.ca
+2019-10-19 00:36:57.6021 [DEBUG] Waiting for server response
+2019-10-19 00:36:57.6545 [DEBUG] Tier: Free, Permissions: 00000200
+2019-10-19 00:36:57.6546 [DEBUG] User Permissions: FFFFFFFF
+2019-10-19 00:36:57.8004 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-10-19 00:36:57.8005 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-10-19 00:36:57.8006 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-10-19 00:36:57.8007 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-10-19 00:36:57.8008 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-10-19 00:36:58.0341 [DEBUG] Uploading scene 'SampleScene'
+2019-10-19 00:36:58.0875 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 00:36:58.2929 [DEBUG] Loading complete
+2019-10-19 00:38:36.9948 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:10:40.3636 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:12:45.0371 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:15:15.8581 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:18:15.8129 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:20:11.3843 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:21:59.8949 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:23:14.9608 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:30:09.2538 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:46:26.0302 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:48:28.4206 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:50:11.6396 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:50:23.0677 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:50:55.8946 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:51:38.9826 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:51:57.6822 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:53:23.4844 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:54:10.9262 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:54:41.0989 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 01:56:38.4548 [WARNING] Unable to load Material 'Assets/Materials/toon road texture_img.mat'.
+2019-10-19 02:01:58.0703 [DEBUG] Disconnecting temporarily to enter play mode.
+2019-10-19 02:01:58.0726 [DEBUG] Disconnecting from room (106468:SceneFusion:SceneFusion)
+2019-10-19 02:01:58.0869 [INFO] Disconnected from server.
+2019-10-19 02:01:58.0871 [DEBUG] Disconnect. (Duration: 5100)
+2019-10-19 02:01:58.2323 [INFO] Static batching in play mode is not supported in a Scene Fusion session and will be temporarily disabled.
+2019-10-19 02:02:00.8625 [DEBUG] Scene Fusion version 1.8.5-0
+2019-10-19 02:02:01.0857 [DEBUG] Play mode: True, sync in play mode: False
+2019-10-19 02:02:01.2803 [DEBUG] Connecting to room (106468:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-10-19 02:02:01.3330 [DEBUG] Host connection. (Session: 106468)
+2019-10-19 02:02:01.4213 [DEBUG] Validating model...
+2019-10-19 02:02:01.5173 [DEBUG] Model updated
+2019-10-19 02:02:01.5178 [DEBUG] Authenticating with server...
+2019-10-19 02:02:01.6303 [DEBUG] Connected to room. (106468:SceneFusion:SceneFusion)
+2019-10-19 02:02:01.6572 [INFO] Connected to server.
+2019-10-19 02:02:01.6577 [DEBUG] OS : Unix 18.7.0.0
+2019-10-19 02:02:01.6578 [DEBUG] Unity Version : 2018.4.11f1
+2019-10-19 02:02:01.6580 [DEBUG] Pro License : False
+2019-10-19 02:02:01.6581 [DEBUG] Platform : OSXEditor
+2019-10-19 02:02:01.6582 [DEBUG] Build Target : iOS
+2019-10-19 02:02:01.6583 [DEBUG] Scene Fusion version : 1.8.5
+2019-10-19 02:02:01.6584 [DEBUG] Scene Fusion client build : 0
+2019-10-19 02:02:01.6585 [DEBUG] User : g9brar@edu.uwaterloo.ca
+2019-10-19 02:02:01.7772 [DEBUG] Tier: Free, Permissions: 00000200
+2019-10-19 02:02:01.7774 [DEBUG] User Permissions: FFFFFFFF
+2019-10-19 02:02:01.8704 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-10-19 02:02:01.8706 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-10-19 02:02:01.8706 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-10-19 02:02:01.8707 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-10-19 02:02:01.8708 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-10-19 02:02:37.1867 [DEBUG] Play mode: False
+2019-10-19 02:02:37.2303 [WARNING] Unable to load Material 'Assets/Materials/toon road texture_img.mat'.
+2019-10-19 02:02:37.2954 [DEBUG] Loading complete
+2019-10-19 02:12:40.3600 [DEBUG] Disconnecting temporarily to recompile.
+2019-10-19 02:12:40.3618 [DEBUG] Disconnecting from room (106468:SceneFusion:SceneFusion)
+2019-10-19 02:12:40.3794 [INFO] Disconnected from server.
+2019-10-19 02:12:40.3796 [DEBUG] Disconnect. (Duration: -892)
+2019-10-19 02:12:49.4317 [DEBUG] Scene Fusion version 1.8.5-0
+2019-10-19 02:12:50.3058 [DEBUG] Connecting
+2019-10-19 02:12:50.3424 [DEBUG] Connecting to room (106468:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-10-19 02:12:50.4084 [DEBUG] Host connection. (Session: 106468)
+2019-10-19 02:12:50.4928 [DEBUG] Validating model...
+2019-10-19 02:12:50.5793 [DEBUG] Model updated
+2019-10-19 02:12:50.5798 [DEBUG] Authenticating with server...
+2019-10-19 02:12:50.7765 [DEBUG] Connected to room. (106468:SceneFusion:SceneFusion)
+2019-10-19 02:12:50.7850 [INFO] Connected to server.
+2019-10-19 02:12:50.7854 [DEBUG] OS : Unix 18.7.0.0
+2019-10-19 02:12:50.7854 [DEBUG] Unity Version : 2018.4.11f1
+2019-10-19 02:12:50.7856 [DEBUG] Pro License : False
+2019-10-19 02:12:50.7857 [DEBUG] Platform : OSXEditor
+2019-10-19 02:12:50.7858 [DEBUG] Build Target : iOS
+2019-10-19 02:12:50.7859 [DEBUG] Scene Fusion version : 1.8.5
+2019-10-19 02:12:50.7859 [DEBUG] Scene Fusion client build : 0
+2019-10-19 02:12:50.7860 [DEBUG] User : g9brar@edu.uwaterloo.ca
+2019-10-19 02:12:50.7861 [DEBUG] Waiting for server response
+2019-10-19 02:12:50.8611 [DEBUG] Tier: Free, Permissions: 00000200
+2019-10-19 02:12:50.8612 [DEBUG] User Permissions: FFFFFFFF
+2019-10-19 02:12:50.9848 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-10-19 02:12:50.9850 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-10-19 02:12:50.9851 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-10-19 02:12:50.9851 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-10-19 02:12:50.9852 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-10-19 02:12:51.1463 [WARNING] Unable to load Material 'Assets/Materials/toon road texture_img.mat'.
+2019-10-19 02:12:51.1819 [DEBUG] Loading complete
+2019-10-19 02:13:05.5098 [DEBUG] Disconnecting temporarily to recompile.
+2019-10-19 02:13:05.5107 [DEBUG] Disconnecting from room (106468:SceneFusion:SceneFusion)
+2019-10-19 02:13:05.5160 [INFO] Disconnected from server.
+2019-10-19 02:13:05.5162 [DEBUG] Disconnect. (Duration: -867)
+2019-10-19 02:13:08.8911 [DEBUG] Scene Fusion version 1.8.5-0
+2019-10-19 02:13:09.4974 [DEBUG] Connecting
+2019-10-19 02:13:09.5364 [DEBUG] Connecting to room (106468:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-10-19 02:13:09.5427 [DEBUG] Host connection. (Session: 106468)
+2019-10-19 02:13:09.6316 [DEBUG] Validating model...
+2019-10-19 02:13:09.7141 [DEBUG] Model updated
+2019-10-19 02:13:09.7146 [DEBUG] Authenticating with server...
+2019-10-19 02:13:09.8387 [DEBUG] Connected to room. (106468:SceneFusion:SceneFusion)
+2019-10-19 02:13:09.9501 [INFO] Connected to server.
+2019-10-19 02:13:09.9505 [DEBUG] OS : Unix 18.7.0.0
+2019-10-19 02:13:09.9506 [DEBUG] Unity Version : 2018.4.11f1
+2019-10-19 02:13:09.9508 [DEBUG] Pro License : False
+2019-10-19 02:13:09.9510 [DEBUG] Platform : OSXEditor
+2019-10-19 02:13:09.9511 [DEBUG] Build Target : iOS
+2019-10-19 02:13:09.9512 [DEBUG] Scene Fusion version : 1.8.5
+2019-10-19 02:13:09.9513 [DEBUG] Scene Fusion client build : 0
+2019-10-19 02:13:09.9514 [DEBUG] User : g9brar@edu.uwaterloo.ca
+2019-10-19 02:13:09.9514 [DEBUG] Waiting for server response
+2019-10-19 02:13:09.9864 [DEBUG] Tier: Free, Permissions: 00000200
+2019-10-19 02:13:09.9865 [DEBUG] User Permissions: FFFFFFFF
+2019-10-19 02:13:10.0540 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-10-19 02:13:10.0542 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-10-19 02:13:10.0542 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-10-19 02:13:10.0543 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-10-19 02:13:10.0544 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-10-19 02:13:10.2199 [WARNING] Unable to load Material 'Assets/Materials/toon road texture_img.mat'.
+2019-10-19 02:13:10.2609 [DEBUG] Loading complete
+2019-10-19 02:13:29.0875 [DEBUG] Disconnecting temporarily to recompile.
+2019-10-19 02:13:29.0886 [DEBUG] Disconnecting from room (106468:SceneFusion:SceneFusion)
+2019-10-19 02:13:29.0983 [INFO] Disconnected from server.
+2019-10-19 02:13:29.0985 [DEBUG] Disconnect. (Duration: -843)
+2019-10-19 02:13:32.3874 [DEBUG] Scene Fusion version 1.8.5-0
+2019-10-19 02:13:32.9865 [DEBUG] Connecting
+2019-10-19 02:13:33.0259 [DEBUG] Connecting to room (106468:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-10-19 02:13:33.0315 [DEBUG] Host connection. (Session: 106468)
+2019-10-19 02:13:33.1196 [DEBUG] Validating model...
+2019-10-19 02:13:33.2032 [DEBUG] Model updated
+2019-10-19 02:13:33.2038 [DEBUG] Authenticating with server...
+2019-10-19 02:13:33.3242 [DEBUG] Connected to room. (106468:SceneFusion:SceneFusion)
+2019-10-19 02:13:33.3325 [INFO] Connected to server.
+2019-10-19 02:13:33.3329 [DEBUG] OS : Unix 18.7.0.0
+2019-10-19 02:13:33.3330 [DEBUG] Unity Version : 2018.4.11f1
+2019-10-19 02:13:33.3331 [DEBUG] Pro License : False
+2019-10-19 02:13:33.3332 [DEBUG] Platform : OSXEditor
+2019-10-19 02:13:33.3333 [DEBUG] Build Target : iOS
+2019-10-19 02:13:33.3334 [DEBUG] Scene Fusion version : 1.8.5
+2019-10-19 02:13:33.3335 [DEBUG] Scene Fusion client build : 0
+2019-10-19 02:13:33.3336 [DEBUG] User : g9brar@edu.uwaterloo.ca
+2019-10-19 02:13:33.3336 [DEBUG] Waiting for server response
+2019-10-19 02:13:33.4068 [DEBUG] Tier: Free, Permissions: 00000200
+2019-10-19 02:13:33.4069 [DEBUG] User Permissions: FFFFFFFF
+2019-10-19 02:13:33.4765 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-10-19 02:13:33.4766 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-10-19 02:13:33.4767 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-10-19 02:13:33.4768 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-10-19 02:13:33.4769 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-10-19 02:13:33.6345 [WARNING] Unable to load Material 'Assets/Materials/toon road texture_img.mat'.
+2019-10-19 02:13:33.6824 [DEBUG] Loading complete
+2019-10-19 02:15:00.9828 [DEBUG] Disconnecting temporarily to recompile.
+2019-10-19 02:15:00.9834 [DEBUG] Disconnecting from room (106468:SceneFusion:SceneFusion)
+2019-10-19 02:15:00.9899 [INFO] Disconnected from server.
+2019-10-19 02:15:00.9901 [DEBUG] Disconnect. (Duration: -751)
+2019-10-19 02:15:04.2862 [DEBUG] Scene Fusion version 1.8.5-0
+2019-10-19 02:15:05.4354 [DEBUG] Connecting
+2019-10-19 02:15:05.4712 [DEBUG] Connecting to room (106468:SceneFusion:SceneFusion) via TCP at roommanager-ec2-35-164-71-216.kinematicsoup.com:21312
+2019-10-19 02:15:05.4777 [DEBUG] Host connection. (Session: 106468)
+2019-10-19 02:15:05.5641 [DEBUG] Validating model...
+2019-10-19 02:15:05.6513 [DEBUG] Model updated
+2019-10-19 02:15:05.6519 [DEBUG] Authenticating with server...
+2019-10-19 02:15:05.7724 [DEBUG] Connected to room. (106468:SceneFusion:SceneFusion)
+2019-10-19 02:15:06.5944 [INFO] Connected to server.
+2019-10-19 02:15:06.5953 [DEBUG] OS : Unix 18.7.0.0
+2019-10-19 02:15:06.5955 [DEBUG] Unity Version : 2018.4.11f1
+2019-10-19 02:15:06.5956 [DEBUG] Pro License : False
+2019-10-19 02:15:06.5958 [DEBUG] Platform : OSXEditor
+2019-10-19 02:15:06.5958 [DEBUG] Build Target : iOS
+2019-10-19 02:15:06.5959 [DEBUG] Scene Fusion version : 1.8.5
+2019-10-19 02:15:06.5959 [DEBUG] Scene Fusion client build : 0
+2019-10-19 02:15:06.5960 [DEBUG] User : g9brar@edu.uwaterloo.ca
+2019-10-19 02:15:06.5961 [DEBUG] Waiting for server response
+2019-10-19 02:15:06.6307 [DEBUG] Tier: Free, Permissions: 00000200
+2019-10-19 02:15:06.6308 [DEBUG] User Permissions: FFFFFFFF
+2019-10-19 02:15:06.7590 [DEBUG] No stand-in for UnityEngine.LocalizationAsset
+2019-10-19 02:15:06.7592 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-10-19 02:15:06.7592 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-10-19 02:15:06.7593 [DEBUG] No stand-in for UnityEngine.TerrainLayer
+2019-10-19 02:15:06.7594 [DEBUG] No stand-in for UnityEngine.Experimental.VFX.VisualEffectAsset
+2019-10-19 02:15:06.9274 [WARNING] Unable to load Material 'Assets/Materials/toon road texture_img.mat'.
+2019-10-19 02:15:06.9551 [DEBUG] Loading complete
+2019-10-19 02:18:02.5987 [DEBUG] Spawn request. (Objects: 1)
+2019-10-19 02:32:31.6487 [WARNING] Unable to load Material 'Assets/Materials/grey.mat'.
+2019-10-19 02:32:53.5206 [DEBUG] Disconnecting because dlls or js files changed.
+2019-10-19 02:32:53.5215 [DEBUG] Disconnecting from room (106468:SceneFusion:SceneFusion)
+2019-10-19 02:32:53.5252 [INFO] Disconnected from server.
+2019-10-19 02:32:53.5254 [DEBUG] Disconnect. (Duration: 320)
